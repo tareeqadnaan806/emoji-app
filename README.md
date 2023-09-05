@@ -1,6 +1,5 @@
 # emoji-app
 
-
 ## hosted link: https://tareeqadnaan806.github.io/emoji-app/
 
 ## Introduction
