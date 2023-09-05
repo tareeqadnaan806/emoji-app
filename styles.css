@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
 .main{
     display: flex;
     flex-direction: column;
@@ -18,4 +23,21 @@ h1{
 
 input{
     display: inline-flex;
+}
+
+#searchContainerResult{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 1200px;
+}
+
+
+.main-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid grey;
 }
